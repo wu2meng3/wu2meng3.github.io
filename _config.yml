@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr."
+title                    : "Meng Wu"
 title_separator          : "-"
 name                     : &name "Meng Wu"
 description              : &description "Postdoctoral scholar at University of California, Berkeley"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Meng Wu"
+  avatar           : "GrandTeton.jpg"
+  bio              : "Theoretical and computational condensed matter physicist"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
