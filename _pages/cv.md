@@ -19,8 +19,6 @@ Work experience
 ======
 * Summer 2013: Summer exchange student of the UCLA-CSST program
   * University of California, Los Angeles
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
 
  * 2021 - present: Postdoctoral scholar
   * Department of Physics, University of California, Berkeley
