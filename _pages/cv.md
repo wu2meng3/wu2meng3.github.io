@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Peking University, 07/2014
+* Ph.D in Physics, University of California, Berkeley, 12/2020
+ * Supervisor: Professor Steven G. Louie
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2013: Summer exchange student of the UCLA-CSST program
+  * University of California, Los Angeles
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+ * 2021 - present: Postdoctoral scholar
+  * Department of Physics, University of California, Berkeley
+  * Supervisor: Professor Steven G. Louie
   
 Skills
 ======
