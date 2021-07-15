@@ -30,17 +30,26 @@ Skills
 * Density functional theory
 * Molecular dynamics
 * High-performance computing:
- * MPI/OPENMP
- * Intel MKL / ELPA
- * HDF5
-* Languages:
- * Python
- * Fortran
- * Mathematica
+* Languages and scientific computing packages:
+  * Linux Shell
+  * Python
+  * Fortran
+  * Mathematica
+  * MPI/OPENMP
+  * Intel MKL / ELPA
+  * HDF5  
+* Materials simulation software:
+  * Quantum ESPRESSO
+  * BerkeleyGW
+  * Wannier90
+  * VASP
+  * LAMMPS
+  * ABINIT
+  * BandUP
 * Other tools:
- * Linux Shell
- * Emacs
- * Git
+  * Emacs
+  * LaTex
+  * Git
 
 Publications
 ======
