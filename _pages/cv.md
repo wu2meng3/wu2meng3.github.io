@@ -20,18 +20,27 @@ Work experience
 * Summer 2013: Summer exchange student of the UCLA-CSST program
   * University of California, Los Angeles
 
- * 2021 - present: Postdoctoral scholar
+* 2021 - present: Postdoctoral scholar
   * Department of Physics, University of California, Berkeley
   * Supervisor: Professor Steven G. Louie
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Many-body perturbation theory
+* Density functional theory
+* Molecular dynamics
+* High-performance computing:
+ * MPI/OPENMP
+ * Intel MKL / ELPA
+ * HDF5
+* Languages:
+ * Python
+ * Fortran
+ * Mathematica
+* Other tools:
+ * Linux Shell
+ * Emacs
+ * Git
 
 Publications
 ======
@@ -53,4 +62,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for Physical Review B, Physical Review Materials, Physical Review Letters, Journal of Nanophotonics, MDPI Materials, MDPI Nanomaterials.
+* Guest Editor for [Special Issue](https://www.mdpi.com/journal/materials/special_issues/Density_Functional_Theory_Computational_Materials_Design) "Recent Advances in Density Functional Theory and Computational Materials Design" in MDPI Materials.
