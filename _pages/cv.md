@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF](https://drive.google.com/file/d/1E7jedV5V392RFeTu4B1e6_ln2F7ydplk/view?usp=sharing)
+
 Education
 ======
 * B.S. in Physics, Peking University, 07/2014
