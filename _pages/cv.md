@@ -75,3 +75,9 @@ Service and leadership
 ======
 * Reviewer for Physical Review B, Physical Review Materials, Physical Review Letters, Journal of Nanophotonics, MDPI Materials, MDPI Nanomaterials.
 * Guest Editor for [Special Issue](https://www.mdpi.com/journal/materials/special_issues/Density_Functional_Theory_Computational_Materials_Design) "Recent Advances in Density Functional Theory and Computational Materials Design" in MDPI Materials.
+* Lecturer at the BerkeleyGW Annual Developer Meeting, Berkeley, CA (2020).
+* Instructor for the Tutorial on BerkeleyGW, Electronic Structure Workshop, UC Merced, Jun 2020.
+
+Awards
+======
+* National Scholarship (2011-2012, 2012-2013). Highest honor for top 2% undergraduates of Peking University.
