@@ -70,7 +70,14 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Advanced Courses
+======
+* CS 289A, UC Berkeley (Spring 2018) Introduction to Machine Learning (Grade: A)
+* CS 267, UC Berkeley (Spring 2017) Applications of Parallel Computers (Grade: A)
+* PHYS 240B, UC Berkeley (Spring 2015) Quantum Theory of Solids (Grade: A)
+* PHYS 240A, UC Berkeley (Fall 2014) Quantum Theory of Solids (Grade: A+)
+
 Service and leadership
 ======
 * Reviewer for Physical Review B, Physical Review Materials, Physical Review Letters, Journal of Nanophotonics, MDPI Materials, MDPI Nanomaterials.
