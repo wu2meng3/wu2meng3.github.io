@@ -14,8 +14,9 @@ redirect_from:
 Education
 ======
 * B.S. in Physics, Peking University, 07/2014
+  * Supervisor: Professor Ji Feng
 * Ph.D in Physics, University of California, Berkeley, 12/2020
- * Supervisor: Professor Steven G. Louie
+  * Supervisor: Professor Steven G. Louie
 
 Work experience
 ======
@@ -37,7 +38,7 @@ Skills
   * Python
   * Fortran
   * Mathematica
-  * MPI/OPENMP
+  * MPI/OpenMP
   * Intel MKL / ELPA
   * HDF5  
 * Materials simulation software:
@@ -88,3 +89,4 @@ Service and leadership
 Awards
 ======
 * National Scholarship (2011-2012, 2012-2013). Highest honor for top 2% undergraduates of Peking University.
+* Outstanding Winner (top 12 among 5636 teams) in 2013 Mathematical Contest in Modeling (MCM).
