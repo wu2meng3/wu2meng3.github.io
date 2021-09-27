@@ -8,3 +8,4 @@ Jun 17-20, Yellowstone National Park, WY
 
 ## Artist Point
 ![ArtistPoint](/images/201806_Yellowstone_GrandTeton/Yellowstone-1.jpg)
+![ArtistPoint](/images/201806_Yellowstone_GrandTeton/Yellowstone-1.png)
