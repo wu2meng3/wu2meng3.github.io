@@ -11,7 +11,7 @@ title                    : "Meng Wu"
 title_separator          : "-"
 name                     : &name "Meng Wu"
 description              : &description "Postdoctoral scholar at University of California, Berkeley"
-url                      : https://wu2meng3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wu2meng3.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wu2meng3/wu2meng3.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WkKXcZMAAAAJ&hl=en"
-  email            :
+  email            : "wu1meng2@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -184,6 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  gallery:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -231,6 +234,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _gallery
+  - scope:
+      path: ""
+      type: gallery
     values:
       layout: single
       author_profile: true
