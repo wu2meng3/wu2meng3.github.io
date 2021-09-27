@@ -1,6 +1,6 @@
 ---
 title: "Yellowstone & Grand Teton National Parks"
-excerpt: "<br/><img src='/images/201806_Yellowstone_GrandTeton/GrandTeton-1.jpg'>"
+excerpt: "<br/><img src='/images/201912_Hawaii/Haleakala-1.jpg'>"
 collection: portfolio
 ---
 
