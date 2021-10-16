@@ -86,5 +86,6 @@ Service and leadership
 
 Awards
 ======
+* Chinese Government Award for Outstanding Self-Financed Students Abroad (2021).
 * National Scholarship (2011-2012, 2012-2013). Highest honor for top 2% undergraduates of Peking University.
 * Outstanding Winner (top 12 among 5636 teams) in 2013 Mathematical Contest in Modeling (MCM).
